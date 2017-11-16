@@ -16,8 +16,8 @@
    
    "description": "A chrome extension that enables you to save tweets for later reference!",
    "icons": {
-      "128": "img/icon-128.png",
-      "16": "img/icon-16.png"
+      "128": "img/logo.png",
+      "16": "img/logo.png"
    },
    "manifest_version": 2,
    "name": "Twitter Save",
