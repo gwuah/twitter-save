@@ -1,3 +1,6 @@
+//fonts from google fonts
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
 * {
 	padding: 0;
 	margin: 0;
@@ -11,8 +14,8 @@ body {
 }
 
 h2 {
-	font-family: monospace;
+	font-family: 'Raleway', sans-serif;
 	font-size: 30px;
-	color: #fc3;
+	color: teal;
 	padding: 5px;
 }
